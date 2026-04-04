@@ -92,58 +92,24 @@ These modes reflect how I build: clear systems, premium presentation, reusable w
 
 ## Repository Showcase
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/GoodshytGroup/good-shyt-group">
-        <img src="./assets/good-shyt-group-cover.png" alt="good-shyt-group" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/GoodshytGroup/octatouch">
-        <img src="./assets/octatouch-cover.png" alt="octatouch" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/GoodshytGroup/aeon-sentinel">
-        <img src="./assets/aeon-sentinel-cover.png" alt="aeon-sentinel" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/GoodshytGroup/github-upload">
-        <img src="./assets/github-upload-cover.png" alt="github-upload" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/GoodshytGroup/agent-github-deploy">
-        <img src="./assets/agent-github-deploy-cover.png" alt="agent-github-deploy" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/GoodshytGroup/frontend-design">
-        <img src="./assets/frontend-design-cover.png" alt="frontend-design" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/GoodshytGroup/mcp-builder">
-        <img src="./assets/mcp-builder-cover.png" alt="mcp-builder" width="100%" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/GoodshytGroup/skill-creator">
-        <img src="./assets/skill-creator-cover.png" alt="skill-creator" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<img width="1600" height="500" alt="image" src="https://github.com/user-attachments/assets/268cf33f-5840-4978-b8d9-db5614a38f58" />
 
----
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/dba36f2e-6a57-4935-abd1-22f9b7b2154a" />
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/42a0a39f-36b6-454c-816e-fdde8769711f" />
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/4d886971-7404-43c9-a88f-791a2ea043a2" />
+
+ <img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/91238542-578b-45c1-b5b4-dbd1373f563f" />
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/d3b27d47-2b5e-47fe-a394-2d13150540bd" />
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/85aacc48-abae-4df7-a3d2-fe786910f15c" />
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/dc9ee5dd-2d65-4a3f-8b1d-bb78534f44b9" />
+
+<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/543747db-bddc-474e-9557-639ecee7401c" />
+
 
 ## Repository Narrative
 
