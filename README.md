@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./assets/banner-dark-premium.png" alt="GoodShyt Group banner" width="100%" />
-</p>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0ccb78e-472a-42f6-8867-bd21edaeee2a" />
+
 
 <h1 align="center">Deonte Watts</h1>
 <p align="center"><strong>Systems Architect • Ethical AI Builder • Community Infrastructure Designer</strong></p>
