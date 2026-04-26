@@ -79,7 +79,7 @@
   <g class="fighter-storm-1">
     <circle cx="840" cy="280" r="38" fill="url(#stormGlow)" stroke="rgba(0,229,176,0.4)" stroke-width="2"/>
     <text x="840" y="295">❄️</text>
-  </g>
+  </g> 
   
   <g class="fighter-storm-2">
     <circle cx="750" cy="260" r="38" fill="url(#stormGlow)" stroke="rgba(0,229,176,0.4)" stroke-width="2"/>
