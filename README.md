@@ -1,4 +1,4 @@
-<div align="center">
+<[div](https://goodshytgroup.github.io/Better-README/index-page-starters/templates/dragonball/) align="center">
 
 # ⚔️goodshytgroup
 
