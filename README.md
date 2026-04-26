@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ goodshytgroup
+# ⚔️  goodshytgroup
 
 **Animated docs hubs, CUDA starters, NVIDIA AI references, and GitHub Pages-ready repo front pages.**
 
